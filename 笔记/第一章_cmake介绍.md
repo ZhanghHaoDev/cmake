@@ -32,3 +32,48 @@ yum install cmake
 
 apt-get install cmake
 ```
+
+4. 查看软件是否安装成功
+在终端输入 version 来查看版本，检查cmake是否安装成功
+```
+cmake -version  
+```
+
+## 1.3 安装GCC，GDB
+
+gcc：编译器
+gdb：调试器
+
+1. Windows
+
+2. macOS
+
+通过brew安装
+```
+// 安装 gcc
+brew install gcc
+// 安装gdb
+brew install gdb
+```
+
+3. linux
+
+通过yum或apt安装
+
+``` bash
+// yum 安装
+yum install gcc
+yum install gdb
+
+// apt安装
+apt-get install gcc
+apt-get install gdb
+```
+
+4. 查看是否安装成功
+
+在终端输入 -v来查看软件版本，检查是否安装成功
+```bash
+gcc -v 
+gdb -v 
+```

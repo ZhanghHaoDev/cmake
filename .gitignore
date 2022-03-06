@@ -1,2 +1,5 @@
 # 忽略 	.DS_Store文件
-*./.DS_Store
+* /.DS_Store
+* .DS_Store
+.DS_Store
+/code/.DS_Store
