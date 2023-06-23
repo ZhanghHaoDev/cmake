@@ -1,0 +1,3 @@
+D:/code/cmake_stu/cmake/code/class01/02变量/cmake-build-debug/CMakeFiles/02.dir
+D:/code/cmake_stu/cmake/code/class01/02变量/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/cmake_stu/cmake/code/class01/02变量/cmake-build-debug/CMakeFiles/rebuild_cache.dir

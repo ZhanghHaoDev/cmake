@@ -1,0 +1,4 @@
+# ninja log v5
+3	94	7092243665792777	build.ninja	1c63e30fa0247437
+0	200	7092243667936034	CMakeFiles/01hellocmake.dir/main.cpp.obj	884fbb3e575a1aa0
+202	276	7092243668672502	01hellocmake.exe	876665e45ebc14c8
