@@ -7,15 +7,11 @@
 
 # 2. 资源
 
-学习网站
+主要推荐：mode-cmake-for-c++
 
-```
-https://sfumecjf.github.io/cmake-examples-Chinese/
-```
+GCC中文手册  
+GDB 手册
 
-PDF:<a href="./资源/CMake Practice.pdf">《CMake Practice》</a>cmake实践
-
-视频教程：B站<a href="https://www.bilibili.com/video/BV1fy4y1b7TC?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click">《基于VSCode和CMake实现C/C++开发 | Linux篇》</a>
 
 # 3.1 工具推荐
 
@@ -27,4 +23,7 @@ CMake：CMake语法高亮
 
 CMakeTools：CMake构建工具
 
-
+2. clion
+```
+https://www.jetbrains.com/clion/
+```
