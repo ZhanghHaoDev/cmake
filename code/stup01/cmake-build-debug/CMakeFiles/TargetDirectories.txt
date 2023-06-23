@@ -1,0 +1,3 @@
+D:/code/cmake_stu/cmake/code/stup01/cmake-build-debug/CMakeFiles/stup01.dir
+D:/code/cmake_stu/cmake/code/stup01/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/cmake_stu/cmake/code/stup01/cmake-build-debug/CMakeFiles/rebuild_cache.dir

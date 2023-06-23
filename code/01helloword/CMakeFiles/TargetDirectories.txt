@@ -1,3 +1,0 @@
-/Users/zhanghao/OneDrive/笔记/编程语言/CPP语言/cmake/code/01helloword/CMakeFiles/Hello.dir
-/Users/zhanghao/OneDrive/笔记/编程语言/CPP语言/cmake/code/01helloword/CMakeFiles/edit_cache.dir
-/Users/zhanghao/OneDrive/笔记/编程语言/CPP语言/cmake/code/01helloword/CMakeFiles/rebuild_cache.dir
