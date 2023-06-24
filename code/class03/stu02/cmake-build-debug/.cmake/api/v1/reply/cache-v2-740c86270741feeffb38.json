@@ -2,42 +2,6 @@
 	"entries" : 
 	[
 		{
-			"name" : "02_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "D:/code/cmake_stu/cmake/code/class01/02\u53d8\u91cf/cmake-build-debug"
-		},
-		{
-			"name" : "02_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "02_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "D:/code/cmake_stu/cmake/code/class01/02\u53d8\u91cf"
-		},
-		{
 			"name" : "CMAKE_ADDR2LINE",
 			"properties" : 
 			[
@@ -91,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/code/cmake_stu/cmake/code/class01/02\u53d8\u91cf/cmake-build-debug"
+			"value" : "d:/code/cmake_stu/cmake/code/class03/stu02/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -611,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/code/cmake_stu/cmake/code/class01/02\u53d8\u91cf/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "D:/code/cmake_stu/cmake/code/class03/stu02/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -683,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/code/cmake_stu/cmake/code/class01/02\u53d8\u91cf"
+			"value" : "D:/code/cmake_stu/cmake/code/class03/stu02"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -695,7 +659,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/02"
+			"value" : "C:/Program Files (x86)/stu02"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -911,7 +875,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "02"
+			"value" : "stu02"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1300,6 +1264,42 @@
 			],
 			"type" : "INTERNAL",
 			"value" : "TRUE"
+		},
+		{
+			"name" : "stu02_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "D:/code/cmake_stu/cmake/code/class03/stu02/cmake-build-debug"
+		},
+		{
+			"name" : "stu02_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "stu02_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "D:/code/cmake_stu/cmake/code/class03/stu02"
 		}
 	],
 	"kind" : "cache",

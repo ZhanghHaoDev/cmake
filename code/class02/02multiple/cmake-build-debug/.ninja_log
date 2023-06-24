@@ -1,0 +1,5 @@
+# ninja log v5
+1	83	7093013421639863	build.ninja	d71bdb47a841dd9f
+3	199	7093004126449908	CMakeFiles/02multiple.dir/tool/tool.cpp.obj	fb89bdb9ee16a6f3
+2	203	7093003356244404	CMakeFiles/02multiple.dir/main.cpp.obj	ad7cf779b7e612dd
+2	78	7093004740981480	02multiple.exe	db406bbf694a9ebe
